@@ -1,0 +1,17 @@
+name: rf_barcode_nb
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - readpaf==0.0.8
+    - pandas==1.3.4
+    - seaborn==0.11.2
+    - matplotlib==3.4.3
+    - toml==0.10.2
+    - tqdm==4.62.3
+    - natsort==8.0.0
+    - jupyter

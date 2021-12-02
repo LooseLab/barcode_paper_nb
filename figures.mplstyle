@@ -1,0 +1,14 @@
+figure.facecolor    : w
+figure.dpi          : 200
+savefig.dpi         : 300
+axes.facecolor      : w
+axes.spines.bottom  : True
+axes.spines.left    : True
+axes.spines.right   : False
+axes.spines.top     : False
+
+axes.labelsize      : 10
+lines.linewidth     : 2
+lines.markersize    : 10
+xtick.labelsize     : 8
+ytick.labelsize     : 8
