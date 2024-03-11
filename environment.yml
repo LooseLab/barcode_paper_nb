@@ -14,4 +14,8 @@ dependencies:
     - toml==0.10.2
     - tqdm==4.62.3
     - natsort==8.0.0
-    - jupyter
+    - jupyterlab==3.5.3
+    - alive-progress==3.1.5
+    - mappy
+    - mappy-rs
+    - natsort==8.4.0
