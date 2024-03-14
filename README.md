@@ -7,7 +7,7 @@ It contains the data and code required for reproducing the figures and some of t
 
 Figures contained in the unused directory were used in the initial pre-print but not in the updated manuscript.
 
-Some directories, which do not contain a jupyter notebook to generate images, should ocntain a README explaining how to generate the image.
+Some directories, which do not contain a jupyter notebook to generate images, should contain a README explaining how to generate the image.
 ### Setting up the environment
 
 The minimal environment required to run these notebooks is specified in the [`environment.yml`][2] file.
