@@ -9,3 +9,8 @@ Genome ribbon was used genomeribbon.com
 With cuteSV vcf output.
 
 MUST BE RUN ON CHROME
+
+Then when all images are in the directory run 
+```bash
+./concatenate_figure.sh
+```
