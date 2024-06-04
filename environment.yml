@@ -13,10 +13,10 @@ dependencies:
     - matplotlib==3.4.3
     - toml==0.10.2
     - tqdm==4.62.3
-    - natsort==8.0.0
     - jupyterlab
     - alive-progress==3.1.5
     - mappy
     - mappy-rs
     - natsort==8.4.0
     - ont-pybasecall-client-lib
+    - pod5
