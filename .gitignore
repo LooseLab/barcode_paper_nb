@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 *.paf
+*.fna.gz
+*.pod5
+figure_2/junk
+*.virtual_documents*
