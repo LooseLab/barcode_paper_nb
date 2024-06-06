@@ -13,30 +13,37 @@ parser.add_argument(
     help="signal lengths to extract from read",
 )
 parser.add_argument(
-    "--input_folder",
-    dest="inputfolder",
-    help="Input folder containing reads to be processed",
+    "--input-folder",
+    dest="input_folder",
+    help="Input folder containing reads to be processed. Is not recursive, will not descend into sub directories.",
     required=True,
+)
+parser.add_argument(
+    "--output-folder",
+    dest="output_folder",
+    help="Output folder destination. Default is current working directory",
+    default="."
 )
 
 args = parser.parse_args()
 
-for chunk_size in args.signal_lens:
+signal_lengths = args.signal_lens + ["original"]
+for chunk_size in signal_lengths:
     print(f"Chunking signal to {chunk_size}")
-    output_path = Path(f"{chunk_size}_multi")
+    output_path = Path(f"{args.output_folder}/{chunk_size}_multi")
     if not output_path.exists():
         output_path.mkdir(exist_ok=False, parents=True)
-    for pod5_file in Path(f"{args.inputfolder}").glob("*.pod5"):
+    for pod5_file in Path(f"{args.input_folder}").glob("*.pod5"):
         print(f"Pulling signal from {pod5_file}")
         file_basename = pod5_file.name
-        output_file = Path(f"{chunk_size}_multi/{file_basename}")
+        output_file = Path(f"{output_path}/{file_basename}")
         print(f"Writing to {output_file}")
         fast5_filepath = pod5_file
         with pod5.DatasetReader(pod5_file, "a") as pod5_reader, pod5.Writer(
             output_file
         ) as pod5_writer:
             for read in pod5_reader.reads():
-                subset_signal = read.signal[:chunk_size]
+                subset_signal = read.signal[:chunk_size] if chunk_size != "original" else read.signal
                 subset_read = pod5.Read(
                     read_id=read.read_id,
                     end_reason=read.end_reason,
