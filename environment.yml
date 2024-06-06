@@ -20,3 +20,4 @@ dependencies:
     - natsort==8.4.0
     - ont-pybasecall-client-lib
     - pod5
+    - rich
