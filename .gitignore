@@ -4,5 +4,6 @@
 *.pod5
 figure_2/junk
 *.virtual_documents*
-*.bam*
+*.bam
+*.bam.csi
 *.txt
