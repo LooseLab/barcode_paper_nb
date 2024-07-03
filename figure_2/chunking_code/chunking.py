@@ -42,7 +42,7 @@ for chunk_size in signal_lengths:
         with pod5.DatasetReader(pod5_file, "a") as pod5_reader, pod5.Writer(
             output_file
         ) as pod5_writer:
-            for read in pod5_reader.reads():
+            for i, read in enumerate(pod5_reader.reads(), start=1):
                 subset_signal = read.signal[:chunk_size] if chunk_size != "original" else read.signal
                 subset_read = pod5.Read(
                     read_id=read.read_id,
@@ -59,3 +59,6 @@ for chunk_size in signal_lengths:
                     signal=subset_signal,
                 )
                 pod5_writer.add_read(subset_read)
+                if i == 10000:
+                    break
+        print(f"wrote {i} reads into {output_path}/{file_basename}")
