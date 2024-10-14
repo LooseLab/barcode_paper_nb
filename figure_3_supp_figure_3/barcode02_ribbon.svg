@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="411.31873"
+   height="199.39201"
+   id="svg_multi_read"
+   version="1.1"
+   sodipodi:docname="barcode02_ribbon.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs158" />
+  <sodipodi:namedview
+     id="namedview158"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.266568"
+     inkscape:cx="254.23033"
+     inkscape:cy="164.22332"
+     inkscape:window-width="1860"
+     inkscape:window-height="972"
+     inkscape:window-x="30"
+     inkscape:window-y="78"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg_multi_read" />
+  <text
+     id="no_alignments_message"
+     x="205.65939"
+     y="64.247086"
+     style="font-size:2.35457px;text-anchor:middle;stroke-width:0.196214"
+     dominant-baseline="middle" />
+  <text
+     id="ref_tag"
+     x="205.65939"
+     y="5.1875167"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:middle;stroke-width:0.196214"
+     dominant-baseline="middle">Reference</text>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,0.19265411,24.275054)"
+     id="g1">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="168.82922"
+       height="17.461439"
+       fill="#ff9896"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect1" />
+    <text
+       class="ref_block"
+       x="84.414612"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text1">1</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,33.319274,24.275054)"
+     id="g2">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="164.243"
+       height="17.461439"
+       fill="#c5b0d5"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect2" />
+    <text
+       class="ref_block"
+       x="82.121498"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text2">2</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,65.546034,24.275054)"
+     id="g3">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="134.47368"
+       height="17.461439"
+       fill="#8c564b"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect3" />
+    <text
+       class="ref_block"
+       x="67.236839"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text3">3</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,91.931634,24.275054)"
+     id="g4">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="128.99356"
+       height="17.461439"
+       fill="#e377c2"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect4" />
+    <text
+       class="ref_block"
+       x="64.49678"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text4">4</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,117.24193,24.275054)"
+     id="g5">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="123.10976"
+       height="17.461439"
+       fill="#bcbd22"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect5" />
+    <text
+       class="ref_block"
+       x="61.554878"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text5">5</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,141.39773,24.275054)"
+     id="g6">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="115.83169"
+       height="17.461439"
+       fill="#9edae5"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect6" />
+    <text
+       class="ref_block"
+       x="57.915844"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text6">6</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,164.12553,24.275054)"
+     id="g7">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="108.06011"
+       height="17.461439"
+       fill="#c7c7c7"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect7" />
+    <text
+       class="ref_block"
+       x="54.030056"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text7">7</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,185.32843,24.275054)"
+     id="g8">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="98.425438"
+       height="17.461439"
+       fill="#d62728"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect8" />
+    <text
+       class="ref_block"
+       x="49.212719"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text8">8</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,204.64083,24.275054)"
+     id="g9">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="93.852066"
+       height="17.461439"
+       fill="#ffbb78"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect9" />
+    <text
+       class="ref_block"
+       x="46.926033"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text9">9</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,223.05593,24.275054)"
+     id="g10">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="90.734421"
+       height="17.461439"
+       fill="#98df8a"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect10" />
+    <text
+       class="ref_block"
+       x="45.36721"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text10">10</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,240.85923,24.275054)"
+     id="g11">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="91.608688"
+       height="17.461439"
+       fill="#ff7f0e"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect11" />
+    <text
+       class="ref_block"
+       x="45.804344"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text11">11</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,258.83413,24.275054)"
+     id="g12">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="90.380348"
+       height="17.461439"
+       fill="#f7b6d2"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect12" />
+    <text
+       class="ref_block"
+       x="45.190174"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text12">12</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,276.56803,24.275054)"
+     id="g13">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="77.555908"
+       height="17.461439"
+       fill="#c49c94"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect13" />
+    <text
+       class="ref_block"
+       x="38.777954"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5672px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text13">13</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,291.78553,24.275054)"
+     id="g14">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="72.591454"
+       height="17.461439"
+       fill="#dbdb8d"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect14" />
+    <text
+       class="ref_block"
+       x="36.295727"
+       y="-10.656"
+       style="text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text14"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.7719px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan158">14</tspan></text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,306.02903,24.275054)"
+     id="g15">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="69.165092"
+       height="17.461439"
+       fill="#aec7e8"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect15" />
+    <text
+       class="ref_block"
+       x="34.582546"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.7719px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text15">15</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,319.60013,24.275054)"
+     id="g16">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="61.262745"
+       height="17.461439"
+       fill="#17becf"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect16" />
+    <text
+       class="ref_block"
+       x="30.631372"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.7719px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text16">16</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,331.62073,24.275054)"
+     id="g17">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="56.460846"
+       height="17.461439"
+       fill="#2ca02c"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect17" />
+    <text
+       class="ref_block"
+       x="28.230423"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3742px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text17">17</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,342.69913,24.275054)"
+     id="g18">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="54.504959"
+       height="17.461439"
+       fill="#7f7f7f"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect18" />
+    <text
+       class="ref_block"
+       x="27.25248"
+       y="-10.656"
+       style="text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text18"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3742px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan159">18</tspan></text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,353.39373,24.275054)"
+     id="g19">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="39.751404"
+       height="17.461439"
+       fill="#1f77b4"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect19" />
+    <text
+       class="ref_block"
+       x="19.875702"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.9765px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text19">19</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,361.19353,24.275054)"
+     id="g20">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="43.702667"
+       height="17.461439"
+       fill="#9467bd"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect20" />
+    <text
+       class="ref_block"
+       x="21.851334"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.5789px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text20">20</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,369.76863,24.275054)"
+     id="g21">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="31.67627"
+       height="17.461439"
+       fill="#ff9896"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect21" />
+    <text
+       class="ref_block"
+       x="15.838135"
+       y="-10.656"
+       style="text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text21"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.1812px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan160">21</tspan></text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,375.98393,24.275054)"
+     id="g22">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="34.462429"
+       height="17.461439"
+       fill="#c5b0d5"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect22" />
+    <text
+       class="ref_block"
+       x="17.231215"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.1812px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text22">22</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,382.74593,24.275054)"
+     id="g23">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="0.011236908"
+       height="17.461439"
+       fill="#8c564b"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect23" />
+    <text
+       class="ref_block"
+       id="text23" />
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,382.74813,24.275054)"
+     id="g24">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="105.81878"
+       height="17.461439"
+       fill="#e377c2"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect24" />
+    <text
+       class="ref_block"
+       x="52.909389"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.9765px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text24">X</text>
+  </g>
+  <g
+     class="ref_block"
+     transform="matrix(0.1962138,0,0,0.1962138,403.51123,24.275054)"
+     id="g25">
+    <rect
+       class="ref_block"
+       x="0"
+       y="0"
+       width="38.808643"
+       height="17.461439"
+       fill="#bcbd22"
+       style="stroke:#000000;stroke-width:1px"
+       id="rect25" />
+    <text
+       class="ref_block"
+       x="19.404322"
+       y="-10.656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.9765px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"
+       dominant-baseline="bottom"
+       id="text25">Y</text>
+  </g>
+  <rect
+     class="ref_interval"
+     x="0.147672"
+     y="35.822693"
+     width="279.00232"
+     height="162.97862"
+     fill="#aec7e8"
+     fill-opacity="0.5"
+     style="stroke:#000000;stroke-width:0.295344px"
+     id="rect26" />
+  <rect
+     class="ref_interval"
+     x="279.14999"
+     y="35.822693"
+     width="132.02107"
+     height="162.97862"
+     fill="#2ca02c"
+     fill-opacity="0.5"
+     style="stroke:#000000;stroke-width:0.295344px"
+     id="rect27" />
+  <path
+     class="ref_mapping"
+     d="M 0.19265411,35.695644 H 279.13383 l 36.7482,-7.99441 v 0 L 0.19705411,35.695644"
+     fill="#aec7e8"
+     id="path27"
+     style="stroke-width:0.196214" />
+  <path
+     class="ref_mapping"
+     d="m 279.13383,35.695644 h 131.9922 l -74.1359,-7.99441 v 0 l -57.8542,7.99441"
+     fill="#2ca02c"
+     id="path28"
+     style="stroke-width:0.196214" />
+  <rect
+     class="focal_regions"
+     x="156.80649"
+     y="35.822693"
+     width="1.666849"
+     height="162.97862"
+     fill="none"
+     style="stroke:#000000;stroke-width:1.18138px"
+     id="rect28" />
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,38.539014)"
+     id="g31">
+    <path
+       class="alignment"
+       d="M 116.3508,0 H 978.26318"
+       style="stroke:#0000ff"
+       id="path29" />
+    <g
+       class="alignment_deletions"
+       id="g29" />
+    <g
+       class="alignment_insertions"
+       id="g30" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,43.971624)"
+     id="g34">
+    <path
+       class="alignment"
+       d="M 334.51207,0 H 926.12082"
+       style="stroke:#0000ff"
+       id="path31" />
+    <g
+       class="alignment_deletions"
+       id="g32" />
+    <g
+       class="alignment_insertions"
+       id="g33" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,49.404244)"
+     id="g37">
+    <path
+       class="alignment"
+       d="M 545.99709,0 H 1092.9848"
+       style="stroke:#0000ff"
+       id="path34" />
+    <g
+       class="alignment_deletions"
+       id="g35" />
+    <g
+       class="alignment_insertions"
+       id="g36" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,54.836884)"
+     id="g40">
+    <path
+       class="alignment"
+       d="M 606.16786,0 H 1174.0294"
+       style="stroke:#0000ff"
+       id="path37" />
+    <g
+       class="alignment_deletions"
+       id="g38" />
+    <g
+       class="alignment_insertions"
+       id="g39" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,60.269494)"
+     id="g44">
+    <path
+       class="alignment"
+       d="m 619.98516,0 h 52.39589 v 0 h 258.38779"
+       style="stroke:#0000ff"
+       id="path40" />
+    <g
+       class="alignment_deletions"
+       id="g41" />
+    <g
+       class="alignment_insertions"
+       id="g43">
+      <g
+         class="insertions"
+         id="g42">
+        <circle
+           cx="672.38104"
+           cy="0"
+           r="4.7616"
+           style="fill:#0000ff;stroke:#000000;stroke-width:1px"
+           id="circle41" />
+      </g>
+    </g>
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,65.702104)"
+     id="g47">
+    <path
+       class="alignment"
+       d="M 626.15435,0 H 955.53012"
+       style="stroke:#0000ff"
+       id="path44" />
+    <g
+       class="alignment_deletions"
+       id="g45" />
+    <g
+       class="alignment_insertions"
+       id="g46" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,71.134724)"
+     id="g50">
+    <path
+       class="alignment"
+       d="M 670.35282,0 H 1120.3659"
+       style="stroke:#0000ff"
+       id="path47" />
+    <g
+       class="alignment_deletions"
+       id="g48" />
+    <g
+       class="alignment_insertions"
+       id="g49" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,76.567364)"
+     id="g55">
+    <path
+       class="alignment"
+       d="m 1930.8542,0 h 36.5927"
+       style="stroke:#0000ff"
+       id="path50" />
+    <path
+       class="alignment"
+       d="M 699.93114,0 H 919.02202"
+       style="stroke:#0000ff"
+       id="path51" />
+    <g
+       class="alignment_deletions"
+       id="g51" />
+    <g
+       class="alignment_deletions"
+       id="g52" />
+    <g
+       class="alignment_insertions"
+       id="g53" />
+    <g
+       class="alignment_insertions"
+       id="g54" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,81.999974)"
+     id="g66">
+    <path
+       class="alignment"
+       d="m 1930.8542,0 h 59.7905"
+       style="stroke:#0000ff"
+       id="path55" />
+    <path
+       class="alignment"
+       d="m 865.18947,0 h 53.83255"
+       style="stroke:#0000ff"
+       id="path56" />
+    <path
+       class="alignment"
+       d="m 1930.8542,0 h 38.5786"
+       style="stroke:#0000ff"
+       id="path57" />
+    <path
+       class="alignment"
+       d="M 704.95946,0 H 919.02202"
+       style="stroke:#0000ff"
+       id="path58" />
+    <g
+       class="alignment_deletions"
+       id="g58" />
+    <g
+       class="alignment_deletions"
+       id="g59" />
+    <g
+       class="alignment_deletions"
+       id="g60" />
+    <g
+       class="alignment_deletions"
+       id="g61" />
+    <g
+       class="alignment_insertions"
+       id="g62" />
+    <g
+       class="alignment_insertions"
+       id="g63" />
+    <g
+       class="alignment_insertions"
+       id="g64" />
+    <g
+       class="alignment_insertions"
+       id="g65" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,87.432594)"
+     id="g69">
+    <path
+       class="alignment"
+       d="m 714.84707,0 h 213.5555"
+       style="stroke:#0000ff"
+       id="path66" />
+    <g
+       class="alignment_deletions"
+       id="g67" />
+    <g
+       class="alignment_insertions"
+       id="g68" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,92.865224)"
+     id="g72">
+    <path
+       class="alignment"
+       d="M 781.3983,0 H 977.67161"
+       style="stroke:#0000ff"
+       id="path69" />
+    <g
+       class="alignment_deletions"
+       id="g70" />
+    <g
+       class="alignment_insertions"
+       id="g71" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,98.297844)"
+     id="g75">
+    <path
+       class="alignment"
+       d="M 786.04632,0 H 1077.9844"
+       style="stroke:#0000ff"
+       id="path72" />
+    <g
+       class="alignment_deletions"
+       id="g73" />
+    <g
+       class="alignment_insertions"
+       id="g74" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,103.73045)"
+     id="g78">
+    <path
+       class="alignment"
+       d="M 790.44082,0 H 1055.7161"
+       style="stroke:#0000ff"
+       id="path75" />
+    <g
+       class="alignment_deletions"
+       id="g76" />
+    <g
+       class="alignment_insertions"
+       id="g77" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,109.16307)"
+     id="g81">
+    <path
+       class="alignment"
+       d="M 793.27189,0 H 1017.8136"
+       style="stroke:#0000ff"
+       id="path78" />
+    <g
+       class="alignment_deletions"
+       id="g79" />
+    <g
+       class="alignment_insertions"
+       id="g80" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,114.5957)"
+     id="g84">
+    <path
+       class="alignment"
+       d="M 832.86459,0 H 1311.3151"
+       style="stroke:#0000ff"
+       id="path81" />
+    <g
+       class="alignment_deletions"
+       id="g82" />
+    <g
+       class="alignment_insertions"
+       id="g83" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,120.02832)"
+     id="g87">
+    <path
+       class="alignment"
+       d="m 867.59799,0 h 62.49477"
+       style="stroke:#0000ff"
+       id="path84" />
+    <g
+       class="alignment_deletions"
+       id="g85" />
+    <g
+       class="alignment_insertions"
+       id="g86" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,125.46093)"
+     id="g90">
+    <path
+       class="alignment"
+       d="M 896.75377,0 H 1537.9696"
+       style="stroke:#0000ff"
+       id="path87" />
+    <g
+       class="alignment_deletions"
+       id="g88" />
+    <g
+       class="alignment_insertions"
+       id="g89" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,130.89357)"
+     id="g96">
+    <path
+       class="alignment"
+       d="m 1930.8542,0 h 227.0348 m 3.0424,0 m 0,0"
+       style="stroke:#0000ff"
+       id="path90" />
+    <path
+       class="alignment"
+       d="m 898.69749,0 h 20.32453"
+       style="stroke:#0000ff"
+       id="path91" />
+    <g
+       class="alignment_deletions"
+       id="g92">
+      <g
+         class="deletions"
+         id="g91">
+        <line
+           x1="2157.8889"
+           x2="2160.9314"
+           y1="0"
+           y2="0"
+           style="stroke:#0000ff;stroke-width:1px;stroke-opacity:0.5"
+           id="line91" />
+      </g>
+    </g>
+    <g
+       class="alignment_deletions"
+       id="g93" />
+    <g
+       class="alignment_insertions"
+       id="g94" />
+    <g
+       class="alignment_insertions"
+       id="g95" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,136.32618)"
+     id="g99">
+    <path
+       class="alignment"
+       d="m 900.68346,0 h 15.42298"
+       style="stroke:#0000ff"
+       id="path96" />
+    <g
+       class="alignment_deletions"
+       id="g97" />
+    <g
+       class="alignment_insertions"
+       id="g98" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,141.7588)"
+     id="g105">
+    <path
+       class="alignment"
+       d="m 1930.8542,0 h 277.318 m 2.493,0 m 0,0"
+       style="stroke:#0000ff"
+       id="path99" />
+    <path
+       class="alignment"
+       d="m 901.61306,0 h 17.40896"
+       style="stroke:#0000ff"
+       id="path100" />
+    <g
+       class="alignment_deletions"
+       id="g101">
+      <g
+         class="deletions"
+         id="g100">
+        <line
+           x1="2208.1721"
+           x2="2210.6653"
+           y1="0"
+           y2="0"
+           style="stroke:#0000ff;stroke-width:1px;stroke-opacity:0.5"
+           id="line100" />
+      </g>
+    </g>
+    <g
+       class="alignment_deletions"
+       id="g102" />
+    <g
+       class="alignment_insertions"
+       id="g103" />
+    <g
+       class="alignment_insertions"
+       id="g104" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,147.19141)"
+     id="g110">
+    <path
+       class="alignment"
+       d="m 1709.5661,0 h 221.6262"
+       style="stroke:#0000ff"
+       id="path105" />
+    <path
+       class="alignment"
+       d="m 918.72624,0 h 25.98667"
+       style="stroke:#0000ff"
+       id="path106" />
+    <g
+       class="alignment_deletions"
+       id="g106" />
+    <g
+       class="alignment_deletions"
+       id="g107" />
+    <g
+       class="alignment_insertions"
+       id="g108" />
+    <g
+       class="alignment_insertions"
+       id="g109" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,152.62405)"
+     id="g116">
+    <path
+       class="alignment"
+       d="m 1587.2386,0 h 340.2353 m 3.7184,0 m 0,0"
+       style="stroke:#0000ff"
+       id="path110" />
+    <path
+       class="alignment"
+       d="M 918.76849,0 H 1095.5201"
+       style="stroke:#0000ff"
+       id="path111" />
+    <g
+       class="alignment_deletions"
+       id="g112">
+      <g
+         class="deletions"
+         id="g111">
+        <line
+           x1="1927.4739"
+           x2="1931.1923"
+           y1="0"
+           y2="0"
+           style="stroke:#0000ff;stroke-width:1px;stroke-opacity:0.5"
+           id="line111" />
+      </g>
+    </g>
+    <g
+       class="alignment_deletions"
+       id="g113" />
+    <g
+       class="alignment_insertions"
+       id="g114" />
+    <g
+       class="alignment_insertions"
+       id="g115" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,158.05666)"
+     id="g121">
+    <path
+       class="alignment"
+       d="m 1717.4678,0 h 213.7245"
+       style="stroke:#0000ff"
+       id="path116" />
+    <path
+       class="alignment"
+       d="m 918.76849,0 h 98.96061"
+       style="stroke:#0000ff"
+       id="path117" />
+    <g
+       class="alignment_deletions"
+       id="g117" />
+    <g
+       class="alignment_deletions"
+       id="g118" />
+    <g
+       class="alignment_insertions"
+       id="g119" />
+    <g
+       class="alignment_insertions"
+       id="g120" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,163.48928)"
+     id="g127">
+    <path
+       class="alignment"
+       d="m 1815.1607,0 h 113.285 m 2.7466,0 m 0,0"
+       style="stroke:#0000ff"
+       id="path121" />
+    <path
+       class="alignment"
+       d="M 918.76849,0 H 1157.5501"
+       style="stroke:#0000ff"
+       id="path122" />
+    <g
+       class="alignment_deletions"
+       id="g123">
+      <g
+         class="deletions"
+         id="g122">
+        <line
+           x1="1928.4457"
+           x2="1931.1923"
+           y1="0"
+           y2="0"
+           style="stroke:#0000ff;stroke-width:1px;stroke-opacity:0.5"
+           id="line122" />
+      </g>
+    </g>
+    <g
+       class="alignment_deletions"
+       id="g124" />
+    <g
+       class="alignment_insertions"
+       id="g125" />
+    <g
+       class="alignment_insertions"
+       id="g126" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,168.92189)"
+     id="g132">
+    <path
+       class="alignment"
+       d="m 1828.2175,0 h 102.9748"
+       style="stroke:#0000ff"
+       id="path127" />
+    <path
+       class="alignment"
+       d="m 918.76849,0 h 68.83299"
+       style="stroke:#0000ff"
+       id="path128" />
+    <g
+       class="alignment_deletions"
+       id="g128" />
+    <g
+       class="alignment_deletions"
+       id="g129" />
+    <g
+       class="alignment_insertions"
+       id="g130" />
+    <g
+       class="alignment_insertions"
+       id="g131" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,174.35453)"
+     id="g137">
+    <path
+       class="alignment"
+       d="m 1825.7244,0 h 105.4679"
+       style="stroke:#0000ff"
+       id="path132" />
+    <path
+       class="alignment"
+       d="M 918.76849,0 H 1092.7313"
+       style="stroke:#0000ff"
+       id="path133" />
+    <g
+       class="alignment_deletions"
+       id="g133" />
+    <g
+       class="alignment_deletions"
+       id="g134" />
+    <g
+       class="alignment_insertions"
+       id="g135" />
+    <g
+       class="alignment_insertions"
+       id="g136" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,179.78714)"
+     id="g142">
+    <path
+       class="alignment"
+       d="m 1914.2481,0 h 16.9442"
+       style="stroke:#0000ff"
+       id="path137" />
+    <path
+       class="alignment"
+       d="m 918.76849,0 h 37.18418"
+       style="stroke:#0000ff"
+       id="path138" />
+    <g
+       class="alignment_deletions"
+       id="g138" />
+    <g
+       class="alignment_deletions"
+       id="g139" />
+    <g
+       class="alignment_insertions"
+       id="g140" />
+    <g
+       class="alignment_insertions"
+       id="g141" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,185.21976)"
+     id="g148">
+    <path
+       class="alignment"
+       d="m 1733.0598,0 h 192.3858 m 5.7467,0 m 0,0"
+       style="stroke:#0000ff"
+       id="path142" />
+    <path
+       class="alignment"
+       d="m 918.76849,0 h 18.08503"
+       style="stroke:#0000ff"
+       id="path143" />
+    <g
+       class="alignment_deletions"
+       id="g144">
+      <g
+         class="deletions"
+         id="g143">
+        <line
+           x1="1925.4457"
+           x2="1931.1923"
+           y1="0"
+           y2="0"
+           style="stroke:#0000ff;stroke-width:1px;stroke-opacity:0.5"
+           id="line143" />
+      </g>
+    </g>
+    <g
+       class="alignment_deletions"
+       id="g145" />
+    <g
+       class="alignment_insertions"
+       id="g146" />
+    <g
+       class="alignment_insertions"
+       id="g147" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,190.6524)"
+     id="g153">
+    <path
+       class="alignment"
+       d="m 1720.9327,0 h 210.2596"
+       style="stroke:#0000ff"
+       id="path148" />
+    <path
+       class="alignment"
+       d="M 918.76849,0 H 1035.2226"
+       style="stroke:#0000ff"
+       id="path149" />
+    <g
+       class="alignment_deletions"
+       id="g149" />
+    <g
+       class="alignment_deletions"
+       id="g150" />
+    <g
+       class="alignment_insertions"
+       id="g151" />
+    <g
+       class="alignment_insertions"
+       id="g152" />
+  </g>
+  <g
+     class="alignment_groups"
+     transform="matrix(0.19625678,0,0,0.44445859,-22.686976,196.08501)"
+     id="g158">
+    <path
+       class="alignment"
+       d="m 1537.9696,0 h 393.2227"
+       style="stroke:#0000ff"
+       id="path153" />
+    <path
+       class="alignment"
+       d="M 919.06427,0 H 1043.9693"
+       style="stroke:#0000ff"
+       id="path154" />
+    <g
+       class="alignment_deletions"
+       id="g154" />
+    <g
+       class="alignment_deletions"
+       id="g155" />
+    <g
+       class="alignment_insertions"
+       id="g156" />
+    <g
+       class="alignment_insertions"
+       id="g157" />
+  </g>
+</svg>
